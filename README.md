@@ -1,4 +1,5 @@
 **🧠 MindMate AI – Your Mental Health Companion**
+
 A comprehensive AI-driven mental health companion that offers mood tracking, journaling, intelligent conversations, and more — all designed to support emotional well-being.
 
 ✨ Features
