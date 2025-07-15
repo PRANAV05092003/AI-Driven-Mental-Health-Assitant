@@ -110,6 +110,7 @@ http://localhost:3000
 bash
 Copy
 Edit
+
 client/
 ├── public/            # Static files
 ├── src/
@@ -133,6 +134,7 @@ client/
 ├── .env
 ├── package.json
 └── tsconfig.json
+
 🔑 Authentication Flow
 Registration
 User registers via /api/auth/register
